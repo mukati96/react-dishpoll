@@ -1,3 +1,8 @@
+#git clone < Repo name >
+# cd foldername
+#npm Install
+#npm run dev
+
 # react-dishpoll
 
 ## Problem Statement
