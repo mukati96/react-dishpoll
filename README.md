@@ -7,6 +7,13 @@
 
 ## Problem Statement
 
+# live link 
+https://reactdishpoll-assignment.netlify.app/
+
+#git repo
+https://github.com/mukati96/react-dishpoll.git
+
+
 Make a small react app for ranking dishes. Multiple users should be able to login into the app and vote for their favourite dishes and see the results of the poll.
 
 Screens and functionalities needed:
